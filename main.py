@@ -2,7 +2,13 @@ from langchain.document_loaders import UnstructuredPDFLoader
 from langchain.indexes import VectorstoreIndexCreator
 
 import os
-os.environ["OPENAI_API_KEY"] = "INSERT YOUR OPENAI API KEY"
+
+from dotenv import load_dotenv
+
+# Load environment variables
+load_dotenv()
+
+os.environ["OPENAI_API_KEY"] = os.getenv("API_KEY")
 
 root_dir = "."
 
