@@ -6,7 +6,7 @@ This is a very early demo app that uses OpenAI's GPT and [🦜🔗LangChain](htt
 
 It comes preloaded with sample Amazon annual and shareholder reports in a ./files/ subfolder. You can start chatting with those or replace the files in the subfolder with your own PDFs
 
-Load it onto your laptop and start asking the PDFs questions.  See the demo screenshots below.
+Load it onto your laptop and start asking the PDFs questions.  OpenAI's GPT 3.5-turbo analyzes and provides answers. See the demo screenshots below.
 
 
 ## Screenshots
