@@ -1,5 +1,7 @@
 # DocsGPT
 
+While OpenAI's ChatGPT is an extraordinary innovation, we can now also use OpenAI to query our own documents.
+
 This demo app illustrates how you can use OpenAI's GPT and [🦜🔗LangChain](https://langchain.com) to process and chat with your local PDF files.
 
 It comes preloaded with sample Amazon annual and shareholder reports in a ./files/ subfolder. You can start chatting with those or replace the files in the subfolder with your own PDFs
