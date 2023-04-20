@@ -26,16 +26,16 @@ Obtain your own OpenAI API key at https://platform.openai.com
 
 Insert your OpenAI API key into the main.py file.  
 
-## Copy your own PDFs
+## Add your own PDFs
 
-Copy your PDFs to the /files/ subfolder
+Add your own PDFs to the /files/ subfolder
 
 ## Run the application
 ```python main.py```
 
 ## 💬Chat with your PDFs
 
-### Example questions:
+### Example questions you can ask your PDFs:
 
 What's the most profitable business line and how much did it earn in each of 2021 and 2022?
 
