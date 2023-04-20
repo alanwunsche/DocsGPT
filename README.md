@@ -27,13 +27,15 @@ Open your Terminal application:
 
 ## Insert your OpenAI API Key
 
+Rename the ```.env.template``` file to ```.env```
+
 Obtain your own OpenAI API key at https://platform.openai.com
 
-Insert your OpenAI API key into the main.py file.  
+Insert your OpenAI API key into the ```.env``` file.  
 
-## Add your own PDFs
+## Add your own PDFs (Optional)
 
-Add your own PDFs to the /files/ subfolder
+If you'd like to query your own PDFs, remove the files in the ```/files/``` folder and copy your PDFs to the ```/files/``` subfolder.
 
 ## Run the application
 ```python main.py```
