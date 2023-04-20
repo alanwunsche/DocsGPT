@@ -10,7 +10,7 @@ Load it onto your laptop and start asking the PDFs questions.  See the demo scre
 
 
 ## Screenshots
-
+[2023-04-19]
 ![Screenshot](https://github.com/alanwunsche/DocsGPT/blob/main/DocsGPT-Demo-CLI-2023-04-19-at-9.12.05%20PM.png)
 
 ## Installation
