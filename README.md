@@ -10,7 +10,9 @@ Load it onto your laptop and start asking the PDFs questions.  See the demo scre
 
 
 ## Screenshots
-[2023-04-19]
+
+[2023-04-19] This screenshot shows the Q&A after the PDFs are ingested. Each question is queried to the GPT 3.5-turbo API and the response is generated in real-time.
+
 ![Screenshot](https://github.com/alanwunsche/DocsGPT/blob/main/DocsGPT-Demo-CLI-2023-04-19-at-9.12.05%20PM.png)
 
 ## Installation
