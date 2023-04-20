@@ -54,7 +54,9 @@ Describe the expected business benefits of the company's climate plans for the u
 Twitter: [@alanwunsche](https://twitter.com/alanwunsche)
 
 ## Notes
-You may encounter a warning "detectron2 is not installed. Cannot use the hi_res partitioning strategy. Falling back to partitioning with the fast strategy.
+1. You may encounter a warning "detectron2 is not installed. Cannot use the hi_res partitioning strategy. Falling back to partitioning with the fast strategy.
+2. This is only a demo and may not produce accurate, reliable results.
+
 " but it will not prevent your app from working.
 
 
