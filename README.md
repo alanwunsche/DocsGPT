@@ -60,5 +60,8 @@ Twitter: [@alanwunsche](https://twitter.com/alanwunsche)
 
 2. This is only a demo and may not produce accurate, reliable results.
 
+3. On a MacOS, it's possible that a .DS_Store file gets added automatically to your ``` /files ``` folder.  If this happens, delete the folder and run this command to prevent the .DS_Store from being created : ``` defaults write com.apple.desktopservices DSDontWriteNetworkStores true ```
+  You can then recreate the /files subfolder
+  
 
 
